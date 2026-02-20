@@ -1,4 +1,4 @@
-# 🔐 Password Strength Heatmap Generator
+![Password Heatmap](password_heatmap.png)# 🔐 Password Strength Heatmap Generator
 
 Ever wondered how safe your passwords really are? 🤔  
 This Python project generates a **fun heatmap** of password strength — weak passwords are red, strong ones are green.
